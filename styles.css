@@ -8,6 +8,8 @@ body {
   color: #b8c1ec
 }
 
-.header img{
-  display: block;
+.intro-header img{
+  display: inline-block;
+  height: 120px;
+  width: 100%;
 }
